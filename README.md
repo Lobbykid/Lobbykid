@@ -1,4 +1,4 @@
-<h1>WELCOM TO MY PAGE🤗🤗🤗</h1>
+<h1>WELCOME TO MY PAGE🤗🤗🤗</h1>
 <h3>My name is Tin. I am a final year student at Nguyen Tat Thanh University and a software programmer.I hope everyone will follow and support me</h3>
 
 ## 🌐Socials
